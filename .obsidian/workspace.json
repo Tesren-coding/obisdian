@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello.md",
+                "file": "Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello"
+              "title": "Docker"
             }
           }
         ]
@@ -190,8 +190,10 @@
   },
   "active": "835e9e7d6890c985",
   "lastOpenFiles": [
-    "Things I wanna learn/semantic.md",
+    "Opensource.md",
+    "Docker.md",
     "hello.md",
+    "Things I wanna learn/semantic.md",
     "Projects",
     "Programming/Python",
     "Programming/VS Code extension",
