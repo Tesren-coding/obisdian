@@ -1,0 +1,1 @@
+Markdown is a **lightweight [[Markup]] language**. It is designed to be easier and faster to write:
