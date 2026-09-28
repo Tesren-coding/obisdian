@@ -393,13 +393,17 @@ git add .
 git commit -m "<message>"
 ```
 
+#### Why is there a need to use Github
 Previously, I've been just updating the and saving versions of the project by duplicating and working on the latest version. But I've decided that as the project got bigger, there was a need for version control such as github.
 
 [[Github]] is useful as there is a form of version control that doesn't take up additional memory by duplicating the versions but changes the version according to the changes made from the previous version. 
 
-If there are no changes made, Github recognizes that and does not make any changes
+Another reason for using Github is that the work can be done on multiple platforms and does not corrupt the original work. It also ensures that work can be transferred from different work devices such as company laptop and personal laptop. This help the developer (me) to work across multiple devices and not worry about losing my work. Eventually when I have to return back to campus and the program becomes unavailable to access through the company's laptop.
 
 **Staging and committing**
+
+Github workflow
+
 
 
 
