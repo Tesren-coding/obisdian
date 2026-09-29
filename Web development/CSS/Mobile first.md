@@ -1,0 +1,1 @@
+Most css developers will do mobile first 

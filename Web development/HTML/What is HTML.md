@@ -31,7 +31,7 @@ We usually have the html tag, head and body element.
 `<title>` goes on the tab of the web page
 `<h1>` is usually the largest header element
 `<p>` is the paragraph element
- `<style>` uses [[CSS]]
+ `<style>` uses [[What is CSS]]
  `lang="en` an [[attribute]]
  `<!DOCTYPE html>`
  
